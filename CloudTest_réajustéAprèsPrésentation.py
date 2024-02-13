@@ -52,11 +52,6 @@ for i in range(10):
 
 
 
-#t.penup()
-
-
-
-#for i in range(100):
 
 
 
