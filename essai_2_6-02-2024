@@ -1,0 +1,37 @@
+import turtle
+import random
+
+#maud est notre tortue
+
+maud = turtle.Turtle()
+
+maud.forward(200)
+maud.circle(40)
+maud.forward(200)
+maud.circle(40)
+
+#def PositionInitiale(Xinit, Yinit):
+    #maud.penup()
+    #maud.goto(Xinit, Yinit)
+    #maud.pendown()
+
+
+
+#def cercle():
+    #maud.forward(250)
+    #maud.circle(50)
+    #for i in range(12):
+        #maud.forward(100)
+        #maud.right(45)
+
+maud.screen.mainloop()
+
+
+
+
+
+
+
+
+
+
